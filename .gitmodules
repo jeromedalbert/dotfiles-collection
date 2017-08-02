@@ -1,0 +1,44 @@
+[submodule "garybernhardt"]
+	path = garybernhardt
+	url = git@github.com:garybernhardt/dotfiles.git
+	branch = master
+[submodule "christoomey"]
+	path = christoomey
+	url = git@github.com:christoomey/dotfiles.git
+	branch = master
+[submodule "nicknisi"]
+	path = nicknisi
+	url = git@github.com:nicknisi/dotfiles.git
+	branch = master
+[submodule "pure"]
+	path = pure
+	url = git@github.com:sindresorhus/pure.git
+	branch = master
+[submodule "jongold"]
+	path = jongold
+	url = git@github.com:jongold/The-Home-Repo.git
+	branch = master
+[submodule "r00k"]
+	path = r00k
+	url = git@github.com:r00k/dotfiles.git
+	branch = master
+[submodule "holman"]
+	path = holman
+	url = git@github.com:holman/dotfiles.git
+	branch = master
+[submodule "caarlos0"]
+	path = caarlos0
+	url = git@github.com:caarlos0/dotfiles.git
+	branch = master
+[submodule "prezto"]
+	path = prezto
+	url = git@github.com:sorin-ionescu/prezto.git
+	branch = master
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = git@github.com:robbyrussell/oh-my-zsh.git
+	branch = master
+[submodule "junegunn"]
+	path = junegunn
+	url = git@github.com:junegunn/dotfiles.git
+	branch = master
