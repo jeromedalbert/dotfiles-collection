@@ -42,3 +42,23 @@
 	path = junegunn
 	url = git@github.com:junegunn/dotfiles.git
 	branch = master
+[submodule "netj"]
+	path = netj
+	url = git@github.com:netj/dotfiles.git
+	branch = master
+[submodule "skwp"]
+	path = skwp
+	url = git@github.com:skwp/dotfiles.git
+	branch = master
+[submodule "mathiasbynens"]
+	path = mathiasbynens
+	url = git@github.com:mathiasbynens/dotfiles.git
+	branch = master
+[submodule "jackfranklin"]
+	path = jackfranklin
+	url = git@github.com:jackfranklin/dotfiles.git
+	branch = master
+[submodule "haya14busa"]
+	path = haya14busa
+	url = git@github.com:haya14busa/dotfiles.git
+	branch = master
