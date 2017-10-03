@@ -62,3 +62,6 @@
 	path = haya14busa
 	url = git@github.com:haya14busa/dotfiles.git
 	branch = master
+[submodule "wincent"]
+	path = wincent
+	url = git@github.com:wincent/wincent.git
