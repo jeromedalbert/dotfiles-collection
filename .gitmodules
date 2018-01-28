@@ -65,3 +65,7 @@
 [submodule "wincent"]
 	path = wincent
 	url = git@github.com:wincent/wincent.git
+[submodule "ahmedelgabri"]
+	path = ahmedelgabri
+	url = git@github.com:ahmedelgabri/dotfiles.git
+	branch = master
