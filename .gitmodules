@@ -69,3 +69,7 @@
 	path = ahmedelgabri
 	url = git@github.com:ahmedelgabri/dotfiles.git
 	branch = master
+[submodule "tpope"]
+	path = tpope
+	url = git@github.com:tpope/tpope.git
+	branch = master
